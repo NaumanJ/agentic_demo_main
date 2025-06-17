@@ -77,6 +77,8 @@ A full-stack AI application integrating a Knowledge Graph (Neo4j), Relational DB
 ```bash
 docker-compose -f docker-compose-postgres.yaml up -d
 
+---
+
 ## 📌 Demo Use Cases
 ### “What is Ronaldo doing in the video?”
 
