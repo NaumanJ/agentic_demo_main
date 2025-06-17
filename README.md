@@ -79,20 +79,14 @@ docker-compose -f docker-compose-postgres.yaml up -d
 
 ---
 
-## 📌 Demo Use Cases
-### “What is Ronaldo doing in the video?”
+📌 Demo Use Cases
+“What is Ronaldo doing in the video?”
+“Show me annotations where Messi scores.”
+“Summarize the soccer match played in Spain.”
+“Generate SQL to find goals between 01:00 and 02:00.”
 
-### “Show me annotations where Messi scores.”
-
-### “Summarize the soccer match played in Spain.”
-
-### “Generate SQL to find goals between 01:00 and 02:00.”
-
-##✨ Future Enhancements
-### ✅ Multilingual translation layer
-
-### ✅ Avatar TTS response
-
-### 🔜 Fine-tuned video captioning
-
-### 🔜 Auto-indexing pipeline for new data
+✨ Future Enhancements
+✅ Multilingual translation layer
+✅ Avatar TTS response
+🔜 Fine-tuned video captioning
+🔜 Auto-indexing pipeline for new data
