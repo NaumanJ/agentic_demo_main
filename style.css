@@ -1,0 +1,6 @@
+body {
+    background-image: url('centific-ai-foundry.png'); /* Replace with your FIFA background image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
